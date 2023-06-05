@@ -7,9 +7,7 @@ CREATE TABLE `data_platform_freight_agreement_item_available_freight_data`
     `AvailableFreightSpec`                              varchar(6) NOT NULL,
     `AvailableFreightCalendar`                          varchar(6) NOT NULL,
     `CreationDate`                                      date NOT NULL,
-    `CreationTime`                                      time NOT NULL,
     `LastChangeDate`                                    date NOT NULL,
-    `LastChangeTime`                                    time NOT NULL,
     `IsCancelled`                                       tinyint(1) DEFAULT NULL,
     `IsMarkedForDeletion`                               tinyint(1) DEFAULT NULL,
 
