@@ -12,7 +12,8 @@ data-platform-freight-agreement-sql には、sqlの設定ファイルとして�
 
 * data-platform-freight-agreement-sql-header-data.sql（データ連携基盤 輸送契約 - ヘッダデータ）
 * data-platform-freight-agreement-sql-header-doc-data.sql（データ連携基盤 輸送契約 - ヘッダ文書データ）
-* data-platform-freight-agreement-sql-item-data.sql（データ連携基盤 輸送契約 - 明細データ）    
+* data-platform-freight-agreement-sql-item-data.sql（データ連携基盤 輸送契約 - 明細データ）
+* data-platform-freight-agreement-sql-item-doc-data.sql（データ連携基盤 輸送契約 - 明細文書データ）
 * data-platform-freight-agreement-sql-item-available-freight-data.sql（データ連携基盤 輸送契約 - 明細利用可能便データ）
 * data-platform-freight-agreement-sql-partner-data.sql（データ連携基盤 輸送契約 - 取引先データ）
 * data-platform-freight-agreement-sql-address-data.sql（データ連携基盤 輸送契約 - 住所データ）
